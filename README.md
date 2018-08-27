@@ -42,7 +42,7 @@ Content-Type: text/html; charset=UTF-8
 ## Configure
 Apache and PHP default configurations are included in the [etc](/etc) directory. You can override the configurations and these will be copied over into the container.
 
-Also see [etc/apache/sites/](/etc/apache/sites) for adding or editing virtual hosts.
+Also see [etc/apache2/sites/](/etc/apache/sites) for adding or editing virtual hosts.
 
 ## Resources
 * https://httpd.apache.org/docs/2.4/
