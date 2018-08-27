@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.8
 
 RUN apk --update add \
     curl php-apache2 php-cli php-json php-mbstring php-phar php-openssl && \
